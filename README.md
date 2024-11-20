@@ -6,7 +6,7 @@ The code is written using python notebooks and completely implemented using Goog
 
 ## Contents:
 - data: contains both raw and processed datasets.
-- pickle models: contains pretrained models for easily loading results without training step.
+- models: contains pretrained models for easily loading results without training step.
 - src: contains notebooks for data preparation and modeling of both VIs (EVI and LSWI) broken down into three stages.
     - src/data preparation.ipynb: Load invididual data sources from weathe and remote sensing data, perform preprocessing, save processed clean data.
     - src/**_train_models1.ipnb: Train and save six initial models (linear regression, XGBoost, random forest, decision tree, SVR, KNN).
