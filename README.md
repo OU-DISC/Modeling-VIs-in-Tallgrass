@@ -21,7 +21,5 @@ The code is written using python notebooks and completely implemented using Goog
 
 ## How to Run
 - Clone directly in Google Colab 
-
 (or)
-
 - Clone locally, adjust file paths, install dependencies.
