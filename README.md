@@ -20,6 +20,8 @@ The code is written using python notebooks and completely implemented using Goog
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## How to Run
-- Clone the repository using Google Colab 
+- Clone directly in Google Colab 
+
 (or)
+
 - Clone locally, adjust file paths, install dependencies.
