@@ -5,7 +5,7 @@ This project investigates the feasability of several machine learning and deep l
 ## Documentation
 The code is written using python notebooks and completely implemented using Google Colab Workspace.
 
-## Contents:
+## Contents
 - data: contains both raw and processed datasets.
 - models: contains pretrained models for easily loading results without training step.
 - src: contains notebooks for data preparation and modeling of both VIs (EVI and LSWI) broken down into three stages.
