@@ -12,4 +12,5 @@ The code is written using python notebooks and completely implemented using Goog
     - src/**_train_models1.ipnb: Train and save six initial models (linear regression, XGBoost, random forest, decision tree, SVR, KNN).
     - src/**_train_models2.ipnb: Train and save six additional models (bayesian ridge, elastic net, ANN, CNN, RNN, LSTM).
     - src/**_final_eval_plots.ipnb: Load pre-trained models, perform train/test/val, plot and save results.
+    - src/**_train_models2_eval.ipynb: Additional train/test/val analysis.
 
