@@ -1,1 +1,14 @@
 # Modeling-VIs-in-Tallgrass
+
+This project investigates the feasability of several machine learning and deep learning models for modelign Vegetation Indices (VIs) in Tallgrass prairies using readily available weather attributes. The goal is to develop predictive models that can accurately estimate the remote sensing VIs such as MODIS-EVI and LSWI.
+
+The code is written using python notebooks and completely implemented using Google Colab Workspace.
+
+## Contents:
+- data: contains both raw and processed datasets
+- pickle models: contains pretrained models for easily loading results without training step
+- src: contains notebooks for both VIs (EVI and LSWI) modeling broken down into three stages.
+    - src/**_train_models1.ipnb: Train and save six initial models (linear regression, XGBoost, random forest, decision tree, SVR, KNN)
+    - src/**_train_models2.ipnb: Train and save six additional models (bayesian ridge, elastic net, ANN, CNN, RNN, LSTM) 
+    - src/**_final_eval_plots.ipnb: Load pre-trained models, perform train/test/val, plot and save results.
+
