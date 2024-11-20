@@ -1,7 +1,8 @@
 # Modeling-VIs-in-Tallgrass
 
-This project investigates the feasability of several machine learning and deep learning models for modelign Vegetation Indices (VIs) in Tallgrass prairies using readily available weather attributes. The goal is to develop predictive models that can accurately estimate the remote sensing VIs such as MODIS-EVI and LSWI.
+This project investigates the feasability of several machine learning and deep learning techniques for modeling Vegetation Indices (VIs) in Tallgrass prairies using readily available weather attributes. The goal is to develop predictive models that can accurately estimate the remote sensing VIs such as MODIS-EVI and LSWI.
 
+## Documentation
 The code is written using python notebooks and completely implemented using Google Colab Workspace.
 
 ## Contents:
@@ -16,5 +17,9 @@ The code is written using python notebooks and completely implemented using Goog
 
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## How to Run
+Clone the repository using Google Colab 
+(or)
+Clone locally, adjust file paths, install dependencies.
